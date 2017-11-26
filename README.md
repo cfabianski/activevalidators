@@ -10,7 +10,7 @@ ActiveValidators is a collection of off-the-shelf and tested ActiveModel/ActiveR
 
 This projects follows [Semantic Versioning a.k.a SemVer](http://semver.org). If you use Bundler, you can use the stabby specifier `~>` safely.
 
-## Usage
+## Usage test
 
 In your models, the gem provides new validators like `email`, or `url`:
 
